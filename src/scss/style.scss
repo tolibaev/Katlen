@@ -1,0 +1,17 @@
+@charset 'UTF-8';
+@import "./modules/fonts";
+
+body{
+   font-family: FuturaPT, Arial, Helvetica, sans-serif;
+   font-size: toRem(20);
+   line-height: 136%;
+   color: #111;
+   background-color: #E5E5E5;
+}
+
+$maxWidthContainer: 1110;
+$containerPadding: 15;
+$maxWidthLayout: 1920;
+
+//=============================================================================================================================================
+@import "./modules/mixins";
