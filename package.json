@@ -12,7 +12,7 @@
 	"license": "ISC",
 	"devDependencies": {
 		"browser-sync": "^2.29.3",
-		"cjs-work": "^2.1.0",
+		"cjs-work": "^2.1.4",
 		"css-loader": "^6.8.1",
 		"del": "^6.0.0",
 		"gulp": "^4.0.2",
